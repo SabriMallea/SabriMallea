@@ -1,4 +1,4 @@
-<h1> Hola desarroladores y reclutadores 👋 </h1>
+<h1> Hola desarrolladores y reclutadores 👋 </h1>
 
 🔭 Actualmente trabajo como desarrolladora backend freelance. </br>
 🌱 Estoy finalizando un curso de DIseño UX/UI para aumentar mi stack y amigarme con el diseño, aunque el UX me gusta bastante debo decir que el backend es mi verdadera pasión.</br>
