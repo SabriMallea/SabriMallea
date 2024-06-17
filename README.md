@@ -1,26 +1,61 @@
-<h1> Hola desarrolladores y reclutadores 👋 </h1>
+<h2>Bienvenido a mi perfil de GitHub 👋</h2>
 
-🔭 Actualmente trabajo como desarrolladora backend freelance. </br>
-🌱 Estoy finalizando un curso de DIseño UX/UI para aumentar mi stack y amigarme con el diseño, aunque el UX me gusta bastante debo decir que el backend es mi verdadera pasión.</br>
-📫 Si te interesa trabajar conmigo puedes enviarme un mensaje y charlamos sobre proyectos, Java, Spring Boot y SQL. </br>
-⚡ Dato curioso:  Vivo en Argentina, aprendo inglés pero próximamente estaré en Alemania, por lo que si deseas conocer más sobre mi experiencia o intereses, no dudes en comunicarte conmigo.</br>
+👩🏻‍💻 Sobre mí:
+Soy una desarrolladora backend freelance con experiencia en Java, Spring Boot, Spring Security, JPA, JDBC y SQL. Actualmente, estoy expandiendo mis horizontes completando un curso de Diseño UX/UI, buscando integrar habilidades de diseño con mi pasión por el backend.</br>
 
-<hr size="2px" color="purple" />
+🤝 Colaboración:
+Estoy abierta a colaboraciones que desafíen mis habilidades y me permitan contribuir a proyectos significativos. Si estás buscando una mente técnica creativa que pueda aportar en el backend, estaré encantada de explorar oportunidades de trabajo conjunto.</br>
 
-<h2>Hi developers and recruiters 👋</h2>
+📧 Contacto:
+Puedes contactarme para discutir proyectos, tecnologías o simplemente para intercambiar ideas sobre el futuro del desarrollo de software.</br>
 
-🔭 I'm currently working as a freelance backend developer.</br>
-🌱 I'm finishing a UX/UI design course to increase my stack and get familiar with design, although I like UX quite a lot I must say that backend is my real passion.</br>
-📫 If you are interested in working with me you can send me a message and we can talk about projects, Java, Spring Boot and SQL.</br>
-⚡ Fun fact: I live in Argentina, I learn English but soon I will be in Germany, so if you want to know more about my experience or interests, don't hesitate to contact me.</br>
+🚀 Próximos pasos:
+Próximamente estaré en Alemania, me interesa conectar con profesionales y empresas en Europa. Si mi perfil te resuena y crees que podríamos hacer un gran equipo, no dudes en enviarme un mensaje.</br>
 
-<hr size="2px" color="purple" />
+📣 Habilidades Blandas:
+Además de mis habilidades técnicas, valoro la comunicación efectiva, el compromiso con la calidad, la responsabilidad en cada proyecto y una constante búsqueda de aprendizaje. Me enfrento a nuevos desafíos con entusiasmo y una actitud proactiva, buscando siempre superar las expectativas.</br>
 
-<h2>Hallo Entwickler und Personalvermittler 👋.</h2>
+🌍 Mi Lema Personal:
+“Escribir código para resolver problemas que cambian el mundo” es el principio que guía mi trabajo diario. Creo firmemente que la tecnología tiene el poder de mejorar vidas y me dedico a contribuir a ese cambio positivo a través de mi trabajo.</br>
 
-🔭 Ich bin derzeit als freiberuflicher Backend-Entwickler tätig.</br>
-🌱 Ich beende gerade einen UX/UI-Design-Kurs, um meinen Stack zu erhöhen und mich mit Design vertraut zu machen, obwohl ich UX sehr mag, muss ich sagen, dass Backend meine wahre Leidenschaft ist.</br>
-📫 Wenn du Interesse an einer Zusammenarbeit mit mir hast, kannst du mir eine Nachricht schicken und wir können über Projekte, Java, Spring Boot und SQL sprechen.</br>
-⚡ Spaßfakt: Ich lebe in Argentinien, ich lerne Englisch, aber bald werde ich in Deutschland sein, also wenn Sie mehr über meine Erfahrung oder Interessen wissen wollen, zögern Sie nicht, mich zu kontaktieren.</br>
+<hr size="2px" color="aqua" />
+<h2>Welcome to my GitHub profile 👋</h2>
 
+👩🏻‍💻 About me:
+I am a freelance backend developer with experience in Java, Spring Boot, Spring Security, JPA, JDBC and SQL. Currently, I am expanding my horizons by completing a UX/UI Design course, looking to integrate design skills with my passion for the backend.</br>
 
+🤝 Collaboration:
+I am open to collaborations that challenge my skills and allow me to contribute to meaningful projects. If you're looking for a creative technical mind who can contribute on the backend, I'd be happy to explore opportunities to work together.</br>
+
+📧 Contact me:
+You can contact me to discuss projects, technologies or just to exchange ideas about the future of software development.</br>
+
+🚀 Next steps:
+I will be in Germany soon, I am interested in connecting with professionals and companies in Europe. If my profile resonates with you and you think we could make a great team, feel free to send me a message. </br>
+
+📣 Soft Skills:
+In addition to my technical skills, I value effective communication, commitment to quality, accountability on every project and a constant quest for learning. I approach new challenges with enthusiasm and a proactive attitude, always seeking to exceed expectations.</br>
+
+🌍 My Personal Motto:
+"Write code to solve problems that change the world" is the guiding principle of my daily work. I firmly believe that technology has the power to improve lives and I am dedicated to contribute to that positive change through my work.</br>
+<hr size="2px" color="aqua" />
+
+<h2>Willkommen auf meinem GitHub-Profil 👋</h2>
+
+👩🏻‍💻 Über mich:
+Ich bin ein freiberuflicher Backend-Entwickler mit Erfahrung in Java, Spring Boot, Spring Security, JPA, JDBC und SQL. Derzeit erweitere ich meinen Horizont, indem ich einen UX/UI-Design-Kurs absolviere, um meine Designfähigkeiten mit meiner Leidenschaft für das Backend zu verbinden.</br>
+
+🤝 Kollaboration:
+Ich bin offen für Kooperationen, die meine Fähigkeiten herausfordern und mir erlauben, zu sinnvollen Projekten beizutragen. Wenn Sie auf der Suche nach einem kreativen technischen Kopf sind, der einen Beitrag zum Backend leisten kann, würde ich mich freuen, Möglichkeiten der Zusammenarbeit auszuloten.</br>
+
+📧 Kontaktieren Sie mich:
+Sie können sich mit mir in Verbindung setzen, um Projekte und Technologien zu besprechen oder einfach nur um Ideen über die Zukunft der Softwareentwicklung auszutauschen.</br>
+
+🚀 Nächste Schritte:
+Ich werde bald in Deutschland sein und bin an Kontakten zu Fachleuten und Unternehmen in Europa interessiert. Wenn Sie sich von meinem Profil angesprochen fühlen und denken, dass wir ein gutes Team sein könnten, schicken Sie mir eine Nachricht.</br>
+
+📣 Soft Skills:
+Neben meinen technischen Fähigkeiten lege ich großen Wert auf effektive Kommunikation, Engagement für Qualität, Verantwortungsbewusstsein bei jedem Projekt und ein ständiges Streben nach Lernen. Ich gehe neue Herausforderungen mit Enthusiasmus und einer proaktiven Einstellung an und versuche stets, die Erwartungen zu übertreffen.</br>
+
+🌍 Mein persönliches Motto:
+"Schreibe Code, um Probleme zu lösen, die die Welt verändern" ist das Leitmotiv meiner täglichen Arbeit. Ich glaube fest daran, dass Technologie die Macht hat, das Leben zu verbessern, und ich möchte durch meine Arbeit zu diesem positiven Wandel beitragen.
